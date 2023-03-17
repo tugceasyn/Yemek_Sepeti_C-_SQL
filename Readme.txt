@@ -1,11 +1,9 @@
-Proje Giriş
+Project Introduction
 ************************************************************
-Proje Bir C# projesi gibi çalıştırılır.
-Girişte Kategori kısmından "Kullanıcı" bölümünü seçip
+The project is run like a C# project.
+Select the "User" section from the Category section at the entrance.
 
 Username=Kullanıcı
 Password=Kullanıcı123
-
-yazılmalıdır.
 
 ************************************************************
